@@ -27,10 +27,10 @@ forecast:
   responseTimeout: "10000"
   
 nre:
-  host: anypoint.mulesoft.com
+  host: national-rail-system-api.us-e2.cloudhub.io
   port: "80"
-  protocol: HTTPS
-  basePath: /mocking/api/v1/sources/exchange/assets/cd5bf5d6-a7c5-40f7-a8db-9f1046bbc2fd/national-rail-system-api/1.0.1/m/service/arrivals
+  protocol: HTTP
+  basePath: /nre/sys/api/v1/service/arrivals
   responseTimeout: "10000"
 
 http: 
