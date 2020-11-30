@@ -1,6 +1,6 @@
 # notification-process-api
 
-About the project
+## About the project
 
 notification-process-api is implemented using Mule 4. It has following operations:
 - retrive current  weather information, 
@@ -14,7 +14,7 @@ This API depends on the following system :
 - covid-system-api: Get recent COVID information wither by region or areaname
 - delay-notification-system-api: Notify user incase of delay
 
-The List of endpoints:
+## The List of endpoints:
 
 **1. Update COVID Information**
       It provides a set of covid records based on region,nation, or areaname
