@@ -60,7 +60,7 @@ This API depends on the following system :
      Query parameter: city - list the point of interest information for given station list
      
 **4. Notification**
-     The application checks for the delay of service for every 5 mins. Then in case of service delay or cancellation the system sends an email to corresponding users.
+     The application checks for the delay of service for every 10 mins. Then in case of service delay or cancellation the system sends an email to corresponding users.
      
     
     
